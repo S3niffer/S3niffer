@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Its ok I got you mate, my name is Erphun and I'm a front-end developer</p>
+<p align="left">I got you mate, my name is Erphun and I'm a front-end developer</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I also know as S3niffer (its se-niffer not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there's no fun fact</p>
+<p align="left">✨ I also know as S3niffer (its se-niffer not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there's no fun fact<br>And just for the record I prefer to explain things in a short way</p>
 
 ###
 
