@@ -1,8 +1,9 @@
-<h1 align="left">Hey doll you came here to check me huh?</h1>
+<h1 align="left">Hello there,<br> Welcome to My GitHub!</h1>
+
 
 ###
 
-<p align="left">I got you mate, my name is Erphun and I'm a front-end developer</p>
+<p align="left">My name is Erphun and I'm a front-end developer</p>
 
 ###
 
@@ -10,11 +11,12 @@
 
 ###
 
-<p align="left">✨ I also know as S3niffer (its se-niffer not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there's no fun fact<br>And just for the record I prefer to explain things in a short way</p>
+<p align="left">✨ I'm also known as S3niffer. (it's se-niffer, not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there isn't one.<br>And just for the record I prefer to explain things concisely.</p>
 
 ###
 
-<h2 align="left">I code with</h2><p> omited obvious things</p>
+<h2 align="left">I code with <span style="font-size: 0.75em;color: #00000095">omitted obvious things</span></h2>
+
 
 ###
 
