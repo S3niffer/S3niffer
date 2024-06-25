@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I also know as S3niffer (not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there's no fun fact</p>
+<p align="left">✨ I also know as S3niffer (its se-niffer not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there's no fun fact</p>
 
 ###
 
