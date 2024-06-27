@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Erphun and I'm a front-end developer</p>
+<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>front-end developer</strong></p>
 
 ###
 
