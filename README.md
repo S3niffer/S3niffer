@@ -49,4 +49,7 @@
 </a>
 </div>
 
+### Take this from me.
+<span>On Your Last Day On Earth You Will Meet The Person You Could Have Become</span><br> – Anonymous
+
 ###
