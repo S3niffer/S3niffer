@@ -49,7 +49,10 @@
 </a>
 </div>
 
-### Take this from me.
-<span>On Your Last Day On Earth You Will Meet The Person You Could Have Become</span><br> – Anonymous
+
+<h2 align="left">Take this from me</h2>
+
+###
+<p align="center"><em>On Your Last Day On Earth You Will Meet The Person You Could Have Become – Anonymous</em></p>
 
 ###
