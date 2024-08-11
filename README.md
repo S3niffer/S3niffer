@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer,</strong> I'm also known as <strong>S3niffer</strong> (it's se-niffer, not sniffer), I'm currently learning new things to complete my learing path as frontend developer and my Goal is to become a <strong>FullStack developer.</strong><br> And just for the record I prefer to explain things concisely.</p>
+<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer</strong>, I'm also known as <strong>S3niffer</strong> (it's se-niffer, not sniffer), I'm currently learning new things to complete my learing path as frontend developer and my goal is to become a skilled <strong>Software engineer</strong> not just a framework user.<br> And only for the record I prefer to explain things concisely.</p>
 
 
 ###
