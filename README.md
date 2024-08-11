@@ -3,15 +3,8 @@
 
 ###
 
-<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>front-end developer</strong></p>
+<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer.</strong> I'm also known as S3niffer. (it's se-niffer, not sniffer). I'm currently learning new things to complete my learing path. My Goal is to become a <strong>FullStack developer.</strong><br> And just for the record I prefer to explain things concisely.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I'm also known as S3niffer. (it's se-niffer, not sniffer)<br>📚 I'm currently learning new things<br>🎯 Goals: become a full-stack developer<br>🎲 Fun fact: there isn't one.<br>And just for the record I prefer to explain things concisely.</p>
 
 ###
 
