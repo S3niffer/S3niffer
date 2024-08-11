@@ -36,20 +36,6 @@
 
 ###
 
-<h2 align="left">Reach me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/s3niffer" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a>
-<a href="https://t.me/s3niffer" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</a>
-</div>
-
-
 <h2 align="left">Take this from me</h2>
 
 ###
