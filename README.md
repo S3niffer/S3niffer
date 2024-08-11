@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer.</strong> I'm also known as S3niffer. (it's se-niffer, not sniffer). I'm currently learning new things to complete my learing path. My Goal is to become a <strong>FullStack developer.</strong><br> And just for the record I prefer to explain things concisely.</p>
+<p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer,</strong> I'm also known as <strong>S3niffer</strong> (it's se-niffer, not sniffer), I'm currently learning new things to complete my learing path as frontend developer and my Goal is to become a <strong>FullStack developer.</strong><br> And just for the record I prefer to explain things concisely.</p>
 
 
 ###
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
