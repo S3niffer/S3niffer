@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">I code with <span style="font-size: 0.75em;color: #808080">(omitted obvious things)</span></h2>
+<h2 align="left">I work with <span style="font-size: 0.75em;color: #808080">(omitted obvious things)</span></h2>
 
 
 ###
