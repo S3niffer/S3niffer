@@ -1,15 +1,12 @@
 <h1 align="left">Hello there, Welcome to my GitHub!</h1>
 
-
 ###
 
 <p align="left">My name is <strong>Erphun</strong> and I'm a <strong>FrontEnd developer</strong>, I'm also known as <strong>S3niffer</strong> (it's se-niffer, not sniffer), I'm currently learning new things to complete my learing path as frontend developer and my goal is to become a skilled <strong>Software engineer</strong> not just a framework user.<br> And only for the record I prefer to explain things concisely.</p>
 
-
 ###
 
 <h2 align="left">I work with <span style="font-size: 0.75em;color: #808080">(omitted obvious things)</span></h2>
-
 
 ###
 
